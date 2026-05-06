@@ -1,11 +1,11 @@
 {
   "version": 3,
-  "lastUpdated": "2026-04-06T12:33:14Z",
+  "lastUpdated": "2026-05-05T17:12:05Z",
   "repository": {
-    "name": "AxThemeStore Official Repository",
-    "description": "Official theme repository for AxionAOSP Theme Store",
-    "maintainer": "AxionAOSP Team",
-    "baseUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2"
+    "name": "Altair ROM Theme Store Official Repository",
+    "description": "Official theme repository for Altair ROM Theme Store",
+    "maintainer": "Altair ROM Team",
+    "baseUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16"
   },
   "components": [
     {
