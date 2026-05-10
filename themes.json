@@ -122,5 +122,152 @@
     }
   ],
   "themes": [
+    {
+      "id": "battery_ios15",
+      "name": "iOS 15",
+      "description": "iOS 15-style horizontal battery with rounded fill",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "ios",
+        "horizontal"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.ios15",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleiOS15Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_ios16",
+      "name": "iOS 16",
+      "description": "iOS 16-style horizontal battery with inside percent",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "ios",
+        "horizontal",
+        "percent"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.ios16",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleiOS16Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_oneui7",
+      "name": "One UI 7",
+      "description": "Samsung One UI 7-style rounded pill battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "samsung",
+        "oneui",
+        "horizontal"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.oneui7",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleOneUI7Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_origami",
+      "name": "Origami",
+      "description": "Origami-folded capsule battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "origami",
+        "capsule"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.origami",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleOrigamiOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_smiley",
+      "name": "Smiley",
+      "description": "Cheerful smiley face battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "smiley",
+        "fun"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.smiley",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleSmileyOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    }
   ]
 }
