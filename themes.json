@@ -42,6 +42,27 @@
       "description": "Battery icon style themes",
       "targetPackage": "com.android.systemui",
       "icon": "battery_full"
+    },
+    {
+      "id": "udfps_icon",
+      "name": "UDFPS Icon",
+      "description": "Fingerprint scanning icon",
+      "targetPackage": "com.android.systemui",
+      "icon": "fingerprint"
+    },
+    {
+      "id": "udfps_animation",
+      "name": "UDFPS Animation",
+      "description": "Fingerprint scanning animation",
+      "targetPackage": "com.android.systemui",
+      "icon": "fingerprint"
+    },
+    {
+      "id": "qs_waveform",
+      "name": "Media Waveform",
+      "description": "Custom animations for media seekbar",
+      "targetPackage": "com.android.systemui",
+      "icon": "waveform"
     }
   ],
   "categories": [
@@ -80,6 +101,24 @@
       "name": "Battery Style",
       "description": "Battery icon style themes",
       "icon": "battery_full"
+    },
+    {
+      "id": "android.theme.customization.udfps_icon",
+      "name": "Fingerprint Icons",
+      "description": "Custom fingerprint scanning icons",
+      "icon": "fingerprint"
+    },
+    {
+      "id": "android.theme.customization.udfps_animation",
+      "name": "Fingerprint Animations",
+      "description": "Custom fingerprint scanning animations",
+      "icon": "fingerprint"
+    },
+    {
+      "id": "qs_waveform",
+      "name": "Media Waveform",
+      "description": "Custom media seekbar animations",
+      "icon": "waveform"
     }
   ],
   "themes": [
