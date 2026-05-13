@@ -123,6 +123,64 @@
   ],
   "themes": [
     {
+      "id": "charging_anim_nothing",
+      "name": "Nothing OS",
+      "description": "Nothing Phone ripple charging animation with glare effect",
+      "author": "AxionOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "charging_animation",
+      "tags": [
+        "charging_animation",
+        "nothing",
+        "ripple"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "charging_animation",
+          "packageName": "com.android.systemui.charging_animation.nothing",
+          "targets": [
+            "android.theme.customization.charging_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/NothingChargingAnimationOverlay.apk",
+          "fileSize": 8542,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "charging_anim_moto",
+      "name": "Moto",
+      "description": "Motorola wired charging animation",
+      "author": "AxionOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "charging_animation",
+      "tags": [
+        "charging_animation",
+        "motorola",
+        "wire"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "charging_animation",
+          "packageName": "com.android.systemui.charging_animation.moto",
+          "targets": [
+            "android.theme.customization.charging_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/MotoChargingAnimationOverlay.apk",
+          "fileSize": 4840138,
+          "enabled": true
+        }
+      ]
+    },
+    {
       "id": "battery_ios15",
       "name": "iOS 15",
       "description": "iOS 15-style horizontal battery with rounded fill",
