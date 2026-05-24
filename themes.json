@@ -4,8 +4,8 @@
   "repository": {
     "name": "Altair ROM Theme Store Official Repository",
     "description": "Official theme repository for Altair ROM Theme Store",
-    "maintainer": "Altair ROM Team",
-    "baseUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16"
+    "maintainer": "Altair ROM",
+    "baseUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16"
   },
   "components": [
     {
@@ -145,7 +145,7 @@
           "targets": [
             "android.theme.customization.charging_animation"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/NothingChargingAnimationOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/NothingChargingAnimationOverlay.apk",
           "fileSize": 8542,
           "enabled": true
         }
@@ -174,7 +174,7 @@
           "targets": [
             "android.theme.customization.charging_animation"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/MotoChargingAnimationOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/MotoChargingAnimationOverlay.apk",
           "fileSize": 4840138,
           "enabled": true
         }
@@ -203,7 +203,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleiOS15Overlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/BatteryStyleiOS15Overlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -233,7 +233,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleiOS16Overlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/BatteryStyleiOS16Overlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -263,7 +263,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleOneUI7Overlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/BatteryStyleOneUI7Overlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -292,7 +292,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleOrigamiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/BatteryStyleOrigamiOverlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -321,7 +321,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_vendor_themes/16/apks/BatteryStyleSmileyOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/BatteryStyleSmileyOverlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
