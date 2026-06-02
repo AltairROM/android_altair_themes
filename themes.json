@@ -123,6 +123,174 @@
   ],
   "themes": [
     {
+      "id": "classic_signal",
+      "name": "Classic Signal",
+      "description": "Classic signal icons",
+      "author": "MJPollard",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.theme.signal_icon.classic",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/SignalIconClassicOverlay.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "holo_signal",
+      "name": "Holo Signal",
+      "description": "Holo signal icons",
+      "author": "MJPollard",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.theme.signal_icon.holo",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/SignalIconHoloOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "materialfilled_signal",
+      "name": "Material Filled Signal",
+      "description": "Material filled signal icons",
+      "author": "MJPollard",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.theme.signal_icon.materialfilled",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/SignalIconMaterialFilledOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "classic_wifi",
+      "name": "Classic WiFi",
+      "description": "Classic WiFi icons",
+      "author": "MJPollard",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.theme.wifi_icon.classic",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/WiFiIconClassicOverlay.apk",
+          "fileSize": 17129,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "holo_wifi",
+      "name": "Holo WiFi",
+      "description": "Holo WiFi icons",
+      "author": "MJPollard",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.theme.wifi_icon.holo",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/WiFiIconHoloOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "materialfilled_wifi",
+      "name": "Material Filled WiFi",
+      "description": "Material Filled WiFi icons",
+      "author": "MJPollard",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.theme.wifi_icon.materialfilled",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/WiFiIconMaterialFilledOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
       "id": "aurora_wifi",
       "name": "Aurora WiFi",
       "description": "Aurora WiFi icons",
