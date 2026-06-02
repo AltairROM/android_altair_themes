@@ -123,6 +123,454 @@
   ],
   "themes": [
     {
+      "id": "aurora_wifi",
+      "name": "Aurora WiFi",
+      "description": "Aurora WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiAurora",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/AuroraWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bars_wifi",
+      "name": "Bars WiFi",
+      "description": "Bars WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_h",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/BarsWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dora_wifi",
+      "name": "Dora WiFi",
+      "description": "Dora WiFi icons",
+      "author": "F5LAYD",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_j",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/DoraWiFiOverlay.apk",
+          "fileSize": 25418,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "faintui_wifi",
+      "name": "FaintUI WiFi",
+      "description": "FaintUI WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiFaintUI",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/FaintUIWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "forlorn_wifi",
+      "name": "Forlorn WiFi",
+      "description": "Forlorn WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiForlorn",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/ForlornWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "gradicon_wifi",
+      "name": "Gradicon WiFi",
+      "description": "Gradicon WiFi icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifiGradicon",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/GradiconWiFiOverlay.apk",
+          "fileSize": 45664,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "inside_wifi",
+      "name": "Inside WiFi",
+      "description": "Inside WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_g",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/InsideWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "nothingdot_wifi",
+      "name": "NothingDot WiFi",
+      "description": "NothingDot WiFi icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifiNothingDot",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/NothingDotWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "plumpy_wifi",
+      "name": "Plumpy WiFi",
+      "description": "Plumpy WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiPlumpy",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/PlumpyWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "round_wifi",
+      "name": "Round WiFi",
+      "description": "Round WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_f",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/RoundWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sneaky_wifi",
+      "name": "Sneaky WiFi",
+      "description": "Sneaky WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_b",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/SneakyWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "stroke_wifi",
+      "name": "Stroke WiFi",
+      "description": "Stroke WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_a",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/StrokeWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wavy_wifi",
+      "name": "Wavy WiFi",
+      "description": "Wavy WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_e",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/WavyWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "weed_wifi",
+      "name": "Weed WiFi",
+      "description": "Weed WiFi icons",
+      "author": "F5LAYD",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_i",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/WeedWiFiOverlay.apk",
+          "fileSize": 25321,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "xperia_wifi",
+      "name": "Xperia WiFi",
+      "description": "Xperia WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_c",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/XperiaWiFiOverlay.apk",
+          "fileSize": 17129,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "zigzag_wifi",
+      "name": "ZigZag WiFi",
+      "description": "ZigZag WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_d",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16/apks/ZigZagWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
       "id": "charging_anim_nothing",
       "name": "Nothing OS",
       "description": "Nothing Phone ripple charging animation with glare effect",
