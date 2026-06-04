@@ -277,6 +277,32 @@
           "enabled": true
         }
       ]
+    },
+    {
+      "id": "twotoneportrait_battery",
+      "name": "Two Tone Portrait",
+      "description": "Portrait battery meter using two-tone fill style",
+      "author": "Altair ROM",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.theme.battery.twotoneportrait",
+          "targets": [
+            "wifi"
+          ],
+          "enabled": true
+        }
+      ]
     }
   ]
 }
