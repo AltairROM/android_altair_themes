@@ -5,7 +5,7 @@
     "name": "Altair ROM Theme Store Official Repository",
     "description": "Official theme repository for Altair ROM Theme Store",
     "maintainer": "Altair ROM",
-    "baseUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/16"
+    "baseUrl": "https://raw.githubusercontent.com/AltairROM/android_altair_themes/17"
   },
   "components": [
     {
